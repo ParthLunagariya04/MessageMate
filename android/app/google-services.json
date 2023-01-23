@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397627824627",
+    "project_id": "my-chat-68cad",
+    "storage_bucket": "my-chat-68cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397627824627:android:fb3899f27813f954749a86",
+        "android_client_info": {
+          "package_name": "com.parth.hi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397627824627-qquf22mn490i77dqnti6g23tsushnq93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parth.hi",
+            "certificate_hash": "3f92097f2665285f6442bac8fca12621c68f87e3"
+          }
+        },
+        {
+          "client_id": "397627824627-ju9qaqka7rjm9kqgc8vjo0nslcffe52p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo4oTl6rpOeAS6uWEa9rVwNlwzSbsnItA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397627824627-ju9qaqka7rjm9kqgc8vjo0nslcffe52p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
