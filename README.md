@@ -1,4 +1,4 @@
-# Hi
+# MessageMate
 
 ## Chat App.
 
