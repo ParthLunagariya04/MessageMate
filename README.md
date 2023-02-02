@@ -15,7 +15,7 @@
 ##### - The stories feature allows users to share their thoughts, experiences and moments with a wider audience, making the app not just a messaging platform but also a social networking platform.
 ##### - Overall, this chat app provides a seamless and convenient messaging experience.
 
-<img src="https://user-images.githubusercontent.com/72681916/216241244-bca5ad67-d126-4760-afe7-0a2f33357f0c.jpg" height="500" /> <img src="https://user-images.githubusercontent.com/72681916/214013393-692bac03-1c24-4248-afce-e6117700f00d.jpg" height="500" />
+<img src="https://user-images.githubusercontent.com/72681916/216241244-bca5ad67-d126-4760-afe7-0a2f33357f0c.jpg" height="500" /> <img src="[https://user-images.githubusercontent.com/72681916/214013393-692bac03-1c24-4248-afce-e6117700f00d.jpg](https://user-images.githubusercontent.com/72681916/216241376-03e9fd7f-5b50-421f-bd39-7b7571a6f76b.jpg)" height="500" />
 <img src="https://user-images.githubusercontent.com/72681916/214013493-324ee584-fc34-4615-9ea4-e706689232be.jpg" height="500" />
 <img src="https://user-images.githubusercontent.com/72681916/214013508-83e678a1-cba6-427e-89b5-88100bcba323.jpg" height="500" />
 <img src="https://user-images.githubusercontent.com/72681916/214013687-9bf1038c-9e7c-4506-818a-2e0737a0e79e.jpg" height="500" />
@@ -23,4 +23,5 @@
 <img src="https://user-images.githubusercontent.com/72681916/214013710-7144a1e5-0a90-45ba-b73e-874e446831ca.jpg" height="500" />
 <img src="https://user-images.githubusercontent.com/72681916/214013723-4f9ac857-7fc1-4ceb-b9b8-1f4f88ddc7fb.jpg" height="500" />
 
+![Screenshot_20230202-104938]()
 
